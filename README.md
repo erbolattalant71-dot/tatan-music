@@ -1,4 +1,4 @@
-[index.html.html](https://github.com/user-attachments/files/33908274/index.html.html)<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="kk">
 <head>
   <meta charset="UTF-8">
